@@ -47,7 +47,6 @@ public class Ex15 {
 					System.out.println("result = " + Math.log(num));
 					break;
 				}
-
 			}
 
 			System.out.println("선택하신 메뉴는 " + menu + "번 입니다.");
